@@ -1,3 +1,4 @@
 learning git
 test
-adding new branch dev
+adding different branch feature
+dev was deleted
